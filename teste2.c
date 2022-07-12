@@ -21,4 +21,3 @@ main(){
         printf("A soma do valor %i de A e o valor %i de B e %i", i, i, soma[i]);
     }    
 }
-
